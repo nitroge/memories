@@ -1,5 +1,4 @@
 # memories
-## fighting
 * [膜拜大佬](https://www.ccc5.cc/archives)
 ## CSS
 * [CSS命名规范](https://github.com/nitroge/memories/issues/1) 
