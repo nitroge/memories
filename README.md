@@ -11,3 +11,4 @@
 
 ## Webpack
 * [如何编写一个loader](https://github.com/nitroge/memories/issues/3)
+* [Code Splitting](https://github.com/nitroge/memories/issues/4)
