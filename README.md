@@ -14,4 +14,4 @@
 * [Code Splitting](https://github.com/nitroge/memories/issues/4)
 * [Prefething](https://github.com/nitroge/memories/issues/5)
 
-## typeScript
+## TypeScript
