@@ -1,4 +1,3 @@
-# memories
 ## fighting
 * [膜拜大佬](https://www.ccc5.cc/archives)
 * [探索生成器(Generator)之拖拽从未如此简单](https://github.com/nitroge/memories/issues/8)
