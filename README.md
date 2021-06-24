@@ -15,3 +15,5 @@
 * [Prefething](https://github.com/nitroge/memories/issues/5)
 
 ## TypeScript
+* [基础语法](https://github.com/nitroge/memories/issues/6) 
+* [语法进阶](https://github.com/nitroge/memories/issues/7) 
