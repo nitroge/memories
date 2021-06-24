@@ -2,7 +2,7 @@
 ## fighting
 * [膜拜大佬](https://www.ccc5.cc/archives)
 * [探索生成器(Generator)之拖拽从未如此简单](https://github.com/nitroge/memories/issues/8)
-* [扁平数据列表生成级联树](https://github.com/nitroge/memories/issues/8)
+* [扁平数据列表生成级联树](https://github.com/nitroge/memories/issues/9)
 
 ## 开发技巧
 * [for循环，reduce和方法链](https://github.com/nitroge/memories/issues/2)
