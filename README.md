@@ -10,6 +10,7 @@
 ## JavaScript
 * [for循环，reduce和方法链](https://github.com/nitroge/memories/issues/2)
 * [如何在javascript里面创建一个枚举对象](https://github.com/nitroge/memories/issues/13)
+* [何时以及如何在javascript里面使用Boolean？](https://github.com/nitroge/memories/issues/14)
 
 ## Webpack
 * [如何编写一个loader](https://github.com/nitroge/memories/issues/3)
