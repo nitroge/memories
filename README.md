@@ -18,3 +18,4 @@
 ## TypeScript
 * [基础语法](https://github.com/nitroge/memories/issues/6) 
 * [语法进阶](https://github.com/nitroge/memories/issues/7) 
+* [类](https://github.com/nitroge/memories/issues/12)
