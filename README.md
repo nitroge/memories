@@ -13,6 +13,7 @@
 * [如何在javascript里面创建一个枚举对象](https://github.com/nitroge/memories/issues/13)
 * [何时以及如何在javascript里面使用Boolean？](https://github.com/nitroge/memories/issues/14)
 * [原型继承](https://github.com/nitroge/memories/issues/16)
+* [变量作用域、闭包](https://github.com/nitroge/memories/issues/17)
 
 ## Webpack
 * [如何编写一个loader](https://github.com/nitroge/memories/issues/3)
