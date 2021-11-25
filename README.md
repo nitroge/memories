@@ -14,6 +14,7 @@
 * [何时以及如何在javascript里面使用Boolean？](https://github.com/nitroge/memories/issues/14)
 * [原型继承](https://github.com/nitroge/memories/issues/16)
 * [变量作用域、闭包](https://github.com/nitroge/memories/issues/17)
+* [Promise，async/await](https://github.com/nitroge/memories/issues/18)
 
 ## Webpack
 * [如何编写一个loader](https://github.com/nitroge/memories/issues/3)
