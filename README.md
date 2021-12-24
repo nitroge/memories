@@ -3,6 +3,7 @@
 * [探索生成器(Generator)之拖拽从未如此简单](https://github.com/nitroge/memories/issues/8)
 * [扁平数据列表生成级联树](https://github.com/nitroge/memories/issues/9)
 * [从零开始了解redux的中间件实现](https://github.com/nitroge/memories/issues/10)
+* [Vue中的loading状态管理](https://www.ccc5.cc/2230.html)
 
 ## CSS
 * [CSS命名规范](https://github.com/nitroge/memories/issues/1) 
