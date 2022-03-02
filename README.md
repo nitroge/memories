@@ -31,4 +31,4 @@
 * [浏览器系列之 Cookie 和 SameSite 属性](https://github.com/mqyqingfeng/Blog/issues/157)
 
 ## 其他
-*[vscode常用快捷键](https://github.com/nitroge/memories/issues/20)
+* [vscode常用快捷键](https://github.com/nitroge/memories/issues/20)
