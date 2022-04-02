@@ -32,3 +32,4 @@
 
 ## 其他
 * [vscode常用快捷键](https://github.com/nitroge/memories/issues/20)
+* [函数式编程](https://github.com/nitroge/memories/issues/21)
