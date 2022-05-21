@@ -35,3 +35,4 @@
 * [vscode常用快捷键](https://github.com/nitroge/memories/issues/20)
 * [函数式编程](https://github.com/nitroge/memories/issues/21)
 * [git使用规范](https://github.com/nitroge/memories/issues/22)
+* [开发问题记录](https://github.com/nitroge/memories/issues/24)
