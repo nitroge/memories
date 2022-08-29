@@ -16,6 +16,7 @@
 * [原型继承](https://github.com/nitroge/memories/issues/16)
 * [变量作用域、闭包](https://github.com/nitroge/memories/issues/17)
 * [Promise，async/await](https://github.com/nitroge/memories/issues/18)
+* [函数式编程](https://github.com/nitroge/memories/issues/21)
 
 ## Webpack
 * [如何编写一个loader](https://github.com/nitroge/memories/issues/3)
@@ -33,8 +34,8 @@
 
 ## 其他
 * [vscode常用快捷键](https://github.com/nitroge/memories/issues/20)
-* [函数式编程](https://github.com/nitroge/memories/issues/21)
+* [项目开发规范及风格指南](https://github.com/nitroge/memories/issues/25)
 * [git使用规范](https://github.com/nitroge/memories/issues/22)
 * [开发问题记录](https://github.com/nitroge/memories/issues/24)
 * [前端实用工具](https://www.zhihu.com/question/20241338/answer/169621428)
-* [项目开发规范及风格指南](https://github.com/nitroge/memories/issues/25)
+* [全局弹窗封装](https://github.com/nitroge/memories/issues/19)
