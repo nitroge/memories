@@ -37,3 +37,4 @@
 * [git使用规范](https://github.com/nitroge/memories/issues/22)
 * [开发问题记录](https://github.com/nitroge/memories/issues/24)
 * [前端实用工具](https://www.zhihu.com/question/20241338/answer/169621428)
+* [项目开发规范及风格指南](https://github.com/nitroge/memories/issues/25)
