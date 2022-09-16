@@ -39,3 +39,4 @@
 * [开发问题记录](https://github.com/nitroge/memories/issues/24)
 * [前端实用工具](https://www.zhihu.com/question/20241338/answer/169621428)
 * [全局弹窗封装](https://github.com/nitroge/memories/issues/19)
+* [promise巧妙用法](https://github.com/nitroge/memories/issues/28)
