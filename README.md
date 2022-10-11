@@ -17,6 +17,7 @@
 * [变量作用域、闭包](https://github.com/nitroge/memories/issues/17)
 * [Promise，async/await](https://github.com/nitroge/memories/issues/18)
 * [函数式编程](https://github.com/nitroge/memories/issues/21)
+* [What's new in javascript](https://github.com/ascoders/weekly/blob/master/%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF/105.%E7%B2%BE%E8%AF%BB%E3%80%8AWhat's%20new%20in%20javascript%E3%80%8B.md)
 
 ## Webpack
 * [如何编写一个loader](https://github.com/nitroge/memories/issues/3)
