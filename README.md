@@ -32,7 +32,6 @@
 ## HTTP
 * [浏览器系列之 Cookie 和 SameSite 属性](https://github.com/mqyqingfeng/Blog/issues/157)
 * [轻松理解http缓存策略](https://juejin.cn/post/6908540505115033614)
-* [localstorage的跨域存储方案](https://www.jianshu.com/p/e86d92aeae69)
 
 ## 其他
 * [vscode常用快捷键](https://github.com/nitroge/memories/issues/20)
