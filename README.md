@@ -20,7 +20,8 @@
 * [What's new in javascript](https://github.com/ascoders/weekly/blob/master/%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF/105.%E7%B2%BE%E8%AF%BB%E3%80%8AWhat's%20new%20in%20javascript%E3%80%8B.md)
 
 ## uniapp专栏
-* [聊天虚拟列表实现，包含左滑操作栏]()
+* [聊天虚拟列表实现，包含左滑操作栏](https://github.com/nitroge/memories/issues/30)
+* [uniapp开发中遇到的坑](https://github.com/nitroge/memories/issues/29)
 ## Webpack
 * [如何编写一个loader](https://github.com/nitroge/memories/issues/3)
 * [Code Splitting](https://github.com/nitroge/memories/issues/4)
@@ -43,4 +44,3 @@
 * [前端实用工具](https://www.zhihu.com/question/20241338/answer/169621428)
 * [全局弹窗封装](https://github.com/nitroge/memories/issues/19)
 * [promise巧妙用法](https://github.com/nitroge/memories/issues/28)
-* [uniapp开发中遇到的坑](https://github.com/nitroge/memories/issues/29)
