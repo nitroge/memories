@@ -45,4 +45,4 @@
 * [全局弹窗封装](https://github.com/nitroge/memories/issues/19)
 * [promise巧妙用法](https://github.com/nitroge/memories/issues/28)
 * [B端提供统一登录方式](https://github.com/nitroge/memories/issues/31)
-* [web端实现分享海报下载功能](https://github.com/nitroge/memories/issues/32)
+* [web端实现分享海报图下载功能](https://github.com/nitroge/memories/issues/32)
