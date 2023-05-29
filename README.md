@@ -47,3 +47,4 @@
 * [B端提供统一登录方式](https://github.com/nitroge/memories/issues/31)
 * [web端实现分享海报图下载功能](https://github.com/nitroge/memories/issues/32)
 * [rollup打包js代码](https://github.com/nitroge/memories/issues/33)
+* [基于 axios 封装业务通用请求库](https://github.com/nitroge/memories/issues/34)
